@@ -32,11 +32,6 @@
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-context</artifactId>
 		</dependency>
-		<dependency>
-			<groupId>org.test.loader</groupId>
-			<artifactId>plugin-loader-annotations</artifactId>
-			<version>0.1.0</version>
-		</dependency>
 	</dependencies>
 
 	<build>
